@@ -120,7 +120,6 @@ nav {
 	color: var(--Black, #333);
 	font-variant-numeric: lining-nums proportional-nums;
 	/* PC/Title */
-	font-family: Proxima Nova;
 	font-size: 90px;
 	font-style: normal;
 	font-weight: 900;
