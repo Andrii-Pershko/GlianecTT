@@ -219,3 +219,44 @@ nav {
 	top: 130px;
 	right: 0;
 }
+
+.background-abstraction:nth-child(6) {
+	top: 130px;
+	right: -75px;
+	z-index: -2;
+}
+
+.title-h2 {
+	font-size: 44px;
+	font-weight: 800;
+	line-height: 125%;
+	margin-bottom: 50px;
+}
+
+.section-chect-test-task {
+	padding: 100px 0;
+}
+
+.test-task-data {
+	display: flex;
+	align-items: center;
+}
+
+.test-task-data img {
+	margin-right: 40px;
+}
+
+.test-task-data p {
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 150%;
+}
+
+.test-task-data p:not(:last-child) {
+	margin-bottom: 10px;
+}
+
+.section-chect-test-task span {
+	font-weight: 700;
+}
